@@ -32,3 +32,15 @@ For more information, please refer to https://docs.gradle.org/8.7/userguide/cust
 BUILD SUCCESSFUL in 38s
 1 actionable task: 1 executed
 PS C:\Users\ELITE COMPUTER\tp-outils-libre-final-lab> 
+
+```
+
+### test the plugin
+
+```powershell
+PS C:\Users\ELITE COMPUTER\tp-outils-libre-final-lab> gradle test
+
+BUILD SUCCESSFUL in 11s
+6 actionable tasks: 5 executed, 1 up-to-date
+PS C:\Users\ELITE COMPUTER\tp-outils-libre-final-lab> 
+```
