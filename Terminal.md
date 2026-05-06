@@ -44,3 +44,24 @@ BUILD SUCCESSFUL in 11s
 6 actionable tasks: 5 executed, 1 up-to-date
 PS C:\Users\ELITE COMPUTER\tp-outils-libre-final-lab> 
 ```
+
+### test python
+
+```powershell
+PS C:\Users\ELITE COMPUTER\tp-outils-libre-final-lab> python integration_test.py
+> Task :plugin:compileJava
+> Task :plugin:pluginDescriptors UP-TO-DATE
+> Task :plugin:processResources UP-TO-DATE
+> Task :plugin:classes
+> Task :plugin:compileTestJava
+> Task :plugin:pluginUnderTestMetadata
+> Task :plugin:processTestResources NO-SOURCE
+> Task :plugin:testClasses
+> Task :plugin:test
+
+BUILD SUCCESSFUL in 9s
+6 actionable tasks: 4 executed, 2 up-to-date
+
+Integration Test Passed
+PS C:\Users\ELITE COMPUTER\tp-outils-libre-final-lab> 
+```
